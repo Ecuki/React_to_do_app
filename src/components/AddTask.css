@@ -1,0 +1,23 @@
+input {
+  margin: 10px;
+  padding: 5px 10px;
+  font-size: 18px;
+}
+.form {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.form button {
+  padding: 6px 32px;
+  font-size: 18px;
+  background-color: #aaa;
+  border: 2px solid #ddd;
+  cursor: pointer;
+  transition: 0.3s;
+  text-transform: uppercase;
+}
+.form button:hover {
+  padding: 8px 32px;
+  background-color: #ddd;
+  border: 2px solid #aaa;
+}
